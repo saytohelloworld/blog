@@ -1,3 +1,8 @@
+---
+layout: post
+title: Say to helloworld
+---
+
 # 暗网 - 另一个网络世界
 ## 连接并进入暗网
 0. V2ray翻墙上网，免费订阅 [GET](https://raw.githubusercontent.com/freefq/free/master/v2)
