@@ -31,7 +31,6 @@ int main()
 
     total_price = price * area;
 
-
     printf("========== 报告结果 ==========\n");
     printf("房款总额：%.2f元\n", total_price);
     printf("首期付款：%.2f元\n", down_payment);
