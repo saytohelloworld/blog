@@ -52,7 +52,7 @@ int main()
     result = (price * (1 + 2.75 * 3)) * (1 + 2.25 * 5);
     printf("先存3年，到期后本息再存2年定期的本息和是：%.2f\n", result);
 
-    result = (price * (1 + 1.75)) * pow((1 + 1.75),5);
+    result = (price * (1 + 1.75)) * pow((1 + 1.75), 5);
     printf("存1年定期，到期后本息再存1年定期，连续存5次的本息和是：%.2f\n", result);
     */
 
