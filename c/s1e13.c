@@ -55,8 +55,10 @@ int main()
 
         if (ch >= '0' && ch <= '9')
         {
-            // 不懂为什么 10 * 1
+            // https://fishc.com.cn/thread-206495-1-1.html
+            // 这个 10 * 1 真的太折腾了，终于是知道为啥了
             i = 10 * i + (ch - '0');
+            printf("%d\n", i);
         }
         else if (i)
         {
