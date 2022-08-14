@@ -1,12 +1,14 @@
 ## 学习环境
 
-- **编译器：** gcc version 9.4.0
-- **编辑器：** docker-code-server *(vscode web)*
-- **服务器：** Railway *(Free Resources)*
+> - **编译器：** gcc version 9.4.0
+> - **编辑器：** docker-code-server *(vscode web)*
+> - **服务器：** Railway *(Free Resources)*
 
-## 笔记
+
 <details>
- <summary>点击查看</summary>
+ <summary>查看笔记</summary>
+ 
+ ----
 
 变量名由下划线、字母和数字组成
 
